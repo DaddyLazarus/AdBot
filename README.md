@@ -1,7 +1,11 @@
 
-___________________________________________
+##AdBot
 
-AdBot, a simple discord selfbot for automated advertising written in python.
+https://cdn.discordapp.com/attachments/867675301521260575/890457582337134662/adbot.png
+
+**AdBot**, a simple discord selfbot for automated advertising written in python.
+
+##Info
 
 To use, simply run the file and enter your discord token when prompted, after the first run you will not need to enter it again.
 
