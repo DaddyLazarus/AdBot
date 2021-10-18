@@ -10,6 +10,7 @@
 To use, simply run the file and enter your discord token and hour(s) to wait between advertisements when prompted, after the first run you will not need to enter these again.
 
 **The bot has 3 commands:**
+
   -**?addchannel** (Info: adds a channel to the list of channels to advertise in. Usage: ?addchannel <channelid>)
   
   -**?removechannel** (Info: removes a channel from the list of channels to advertise in. Usage: ?removechannel <channelid>)
