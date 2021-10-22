@@ -11,10 +11,10 @@ To use, simply run the file and enter your discord token and hour(s) to wait bet
 
 **The bot has 3 commands:**
 
-  -**?addchannel** (Info: adds a channel to the list of channels to advertise in. Usage: ?addchannel <channelid>)
+  - **?addchannel** (Info: adds a channel to the list of channels to advertise in. Usage: ?addchannel <channelid>)
   
-  -**?removechannel** (Info: removes a channel from the list of channels to advertise in. Usage: ?removechannel <channelid>)
+  - **?removechannel** (Info: removes a channel from the list of channels to advertise in. Usage: ?removechannel <channelid>)
   
-  -**?setmsg** (Info: sets the message to advertise. Usage: ?setmsg <message>)
+  - **?setmsg** (Info: sets the message to advertise. Usage: ?setmsg <message>)
   
 **NOTE:** You cannot add attachments to the advertising message, if you wish to use images or video you will have to use a link in the message
